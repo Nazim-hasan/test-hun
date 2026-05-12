@@ -5,6 +5,7 @@
 # Authors: Imre Molnar, Viktor Varga
 #
 
+import utils.session
 import copy as copy_module
 import os
 import urllib
